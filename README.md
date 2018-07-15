@@ -1,7 +1,6 @@
 # Scala-Lessons
 Learn step by step Programming
 
-
 # Scala and Spark for Big-Data and Machine-Learning
 _Regression with Spark
 _Classification with Spark
